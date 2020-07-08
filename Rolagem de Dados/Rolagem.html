@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Rolagens de Dado</h2>
+
+<p id="demo"></p>
+
+<button onclick="rolagem()">Rolar o dado</button>
+
+<script>
+function rolagem(){
+dado=prompt("qual dado você quer?");
+result=Math.floor(Math.random()*dado)+1;
+document.getElementById("demo").innerHTML = "você rolou um d"+dado+" e o resultado foi "+ result;}
+</script>
+
+</body>
+</html>
