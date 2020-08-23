@@ -1,4 +1,5 @@
-# Projetos de Aula - Pedro
- 
- Ensinando programação e marcação básica para uma criança de 11 anos.
- Resultados diversos mostrando aqui
+# PROJETOS PEDRO
+
+Ensinei para meu irmão de 11 anos programação e marcação basica
+
+ele aprendeu muitas coisas de programação os resultados serão mostrados aqui
